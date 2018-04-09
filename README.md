@@ -1,4 +1,10 @@
 # hw6
+
+## Google NGrams
+
+
+
+
 ## AntConc
 
 ### Частоты и Нечистоты
